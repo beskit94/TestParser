@@ -1,0 +1,15 @@
+C:\Users\Beskit\AppData\Local\Temporary Projects\TestParser\obj\x86\Debug\TestParser.Form1.resources
+C:\Users\Beskit\AppData\Local\Temporary Projects\TestParser\obj\x86\Debug\TestParser.Properties.Resources.resources
+C:\Users\Beskit\AppData\Local\Temporary Projects\TestParser\obj\x86\Debug\TestParser.csproj.GenerateResource.Cache
+C:\Users\Beskit\AppData\Local\Temporary Projects\TestParser\bin\Debug\TestParser.exe
+C:\Users\Beskit\AppData\Local\Temporary Projects\TestParser\bin\Debug\TestParser.pdb
+C:\Users\Beskit\AppData\Local\Temporary Projects\TestParser\obj\x86\Debug\TestParser.exe
+C:\Users\Beskit\AppData\Local\Temporary Projects\TestParser\obj\x86\Debug\TestParser.pdb
+C:\Users\Beskit\documents\visual studio 2010\Projects\TestParser\TestParser\obj\x86\Debug\TestParser.exe
+C:\Users\Beskit\documents\visual studio 2010\Projects\TestParser\TestParser\obj\x86\Debug\TestParser.pdb
+C:\Users\Beskit\documents\visual studio 2010\Projects\TestParser\TestParser\bin\Debug\TestParser.exe
+C:\Users\Beskit\documents\visual studio 2010\Projects\TestParser\TestParser\bin\Debug\TestParser.pdb
+C:\Users\Beskit\documents\visual studio 2010\Projects\TestParser\TestParser\obj\x86\Debug\TestParser.csprojResolveAssemblyReference.cache
+C:\Users\Beskit\documents\visual studio 2010\Projects\TestParser\TestParser\obj\x86\Debug\TestParser.Form1.resources
+C:\Users\Beskit\documents\visual studio 2010\Projects\TestParser\TestParser\obj\x86\Debug\TestParser.Properties.Resources.resources
+C:\Users\Beskit\documents\visual studio 2010\Projects\TestParser\TestParser\obj\x86\Debug\TestParser.csproj.GenerateResource.Cache
